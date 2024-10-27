@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Agile Store Locator\n"
+"POT-Creation-Date: 2017-02-12 14:39+0500\n"
+"PO-Revision-Date: 2017-02-12 15:38+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: agile-store-locator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-agile-store-locator.php:300 includes/template-frontend.php:44
+#: includes/template-frontend.php:119
+msgid "Directions"
+msgstr "اتجاه"
+
+#: includes/class-agile-store-locator.php:301
+msgid "Zoom Here"
+msgstr "زوم"
+
+#: includes/class-agile-store-locator.php:302
+msgid "Details"
+msgstr "تفاصيل"
+
+#: includes/class-agile-store-locator.php:303
+msgid "Select Option"
+msgstr "حدد الخيار"
+
+#: includes/class-agile-store-locator.php:304
+msgid "None"
+msgstr "لا شيء"
+
+#: includes/template-frontend.php:18
+msgid "Search Location"
+msgstr "موقع البحث"
+
+#: includes/template-frontend.php:24
+msgid "Stores"
+msgstr ""
+
+#: includes/template-frontend.php:31
+msgid "Loading..."
+msgstr "جار التحميل..."
+
+#: includes/template-frontend.php:60
+msgid "Get Your Directions"
+msgstr "الحصول على الاتجاهات الخاص بك"
+
+#: includes/template-frontend.php:63
+msgid "From"
+msgstr "من عند"
+
+#: includes/template-frontend.php:67
+msgid "To"
+msgstr ""
+
+#: includes/template-frontend.php:71
+msgid "Show Distance In"
+msgstr "مشاهدة القطر في"
+
+#: includes/template-frontend.php:80
+msgid "GET DIRECTIONS"
+msgstr "احصل على الاتجاهات"
+
+#: includes/template-frontend.php:104
+msgid "Phone"
+msgstr "هاتف"
+
+#: includes/template-frontend.php:123
+msgid "Distance"
+msgstr "بعد"
+
+#. Plugin Name of the plugin/theme
+msgid "Agile Store Locator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://agilestorelocator.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Agile Store Locator is a WordPress Plugin that renders stores list with "
+"google maps V3 API. Paste ShortCode [ASL_STORELOCATOR] in your page/post."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "AGILELOGIX"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://agilestorelocator.com/"
+msgstr ""
